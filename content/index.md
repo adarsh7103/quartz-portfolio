@@ -1,5 +1,5 @@
 ---
-title: Adarsh Gupta
+title: ~/techyadarsh
 ---
 
 I’m a frontend developer passionate about creating clean and intuitive web applications. I specialize in React, Next.js, TypeScript, Redux, and TailwindCSS, and I love turning ideas into smooth, functional user experiences.
